@@ -28,18 +28,6 @@ I’m passionate about solving problems with clean, scalable code — and buildi
 
 ---
 
-## 🚀 Projects
-
-### 🎮 Genesis After the Fall  
-Narrative-driven survival game concept using Unity.  
-🕳️ Story-driven gameplay through wormholes and decision-making.
-
-### 📊 Terminal DB Query Tool  
-Shell menu that runs SQL queries directly through the command line.  
-🗃️ Designed for quick testing and debugging.
-
----
-
 ## 📌 Goals
 
 - Continue developing full-stack and systems-level skills  
