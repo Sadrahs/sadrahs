@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sadra Hosseini
 
-🎓 4th-Year Computer Science Student @ TMU (Toronto Metropolitan University)  
+Computer Science graduate from TMU (Toronto Metropolitan University)  
 💼 ISAMET President | Peer Supporter | Former IT Technician  
 📍 Based in Toronto, Canada  
 📫 Contact: Sadrahs.dev@gmail.com | [LinkedIn](https://www.linkedin.com/in/sadrahs/)
